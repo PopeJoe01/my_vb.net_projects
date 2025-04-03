@@ -1,0 +1,16 @@
+C:\Users\popej\source\repos\WinFormsApp1b\WinFormsApp1b\bin\Debug\net8.0-windows\WinFormsApp1b.exe
+C:\Users\popej\source\repos\WinFormsApp1b\WinFormsApp1b\bin\Debug\net8.0-windows\WinFormsApp1b.deps.json
+C:\Users\popej\source\repos\WinFormsApp1b\WinFormsApp1b\bin\Debug\net8.0-windows\WinFormsApp1b.runtimeconfig.json
+C:\Users\popej\source\repos\WinFormsApp1b\WinFormsApp1b\bin\Debug\net8.0-windows\WinFormsApp1b.dll
+C:\Users\popej\source\repos\WinFormsApp1b\WinFormsApp1b\bin\Debug\net8.0-windows\WinFormsApp1b.pdb
+C:\Users\popej\source\repos\WinFormsApp1b\WinFormsApp1b\obj\Debug\net8.0-windows\WinFormsApp1b.Form1.resources
+C:\Users\popej\source\repos\WinFormsApp1b\WinFormsApp1b\obj\Debug\net8.0-windows\WinFormsApp1b.vbproj.GenerateResource.cache
+C:\Users\popej\source\repos\WinFormsApp1b\WinFormsApp1b\obj\Debug\net8.0-windows\WinFormsApp1b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\popej\source\repos\WinFormsApp1b\WinFormsApp1b\obj\Debug\net8.0-windows\WinFormsApp1b.AssemblyInfoInputs.cache
+C:\Users\popej\source\repos\WinFormsApp1b\WinFormsApp1b\obj\Debug\net8.0-windows\WinFormsApp1b.AssemblyInfo.vb
+C:\Users\popej\source\repos\WinFormsApp1b\WinFormsApp1b\obj\Debug\net8.0-windows\WinFormsApp1b.vbproj.CoreCompileInputs.cache
+C:\Users\popej\source\repos\WinFormsApp1b\WinFormsApp1b\obj\Debug\net8.0-windows\WinFormsApp1b.dll
+C:\Users\popej\source\repos\WinFormsApp1b\WinFormsApp1b\obj\Debug\net8.0-windows\refint\WinFormsApp1b.dll
+C:\Users\popej\source\repos\WinFormsApp1b\WinFormsApp1b\obj\Debug\net8.0-windows\WinFormsApp1b.pdb
+C:\Users\popej\source\repos\WinFormsApp1b\WinFormsApp1b\obj\Debug\net8.0-windows\WinFormsApp1b.genruntimeconfig.cache
+C:\Users\popej\source\repos\WinFormsApp1b\WinFormsApp1b\obj\Debug\net8.0-windows\ref\WinFormsApp1b.dll

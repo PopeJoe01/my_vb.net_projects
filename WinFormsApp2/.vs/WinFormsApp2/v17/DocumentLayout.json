@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\popej\\source\\repos\\WinFormsApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94BAE5B9-B131-4E2C-8778-C103DFF44AD8}|WinFormsApp2\\WinFormsApp2.vbproj|c:\\users\\popej\\source\\repos\\winformsapp2\\winformsapp2\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{94BAE5B9-B131-4E2C-8778-C103DFF44AD8}|WinFormsApp2\\WinFormsApp2.vbproj|solutionrelative:winformsapp2\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BAE5B9-B131-4E2C-8778-C103DFF44AD8}|WinFormsApp2\\WinFormsApp2.vbproj|c:\\users\\popej\\source\\repos\\winformsapp2\\winformsapp2\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{94BAE5B9-B131-4E2C-8778-C103DFF44AD8}|WinFormsApp2\\WinFormsApp2.vbproj|solutionrelative:winformsapp2\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BAE5B9-B131-4E2C-8778-C103DFF44AD8}|WinFormsApp2\\WinFormsApp2.vbproj|c:\\users\\popej\\source\\repos\\winformsapp2\\winformsapp2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{94BAE5B9-B131-4E2C-8778-C103DFF44AD8}|WinFormsApp2\\WinFormsApp2.vbproj|solutionrelative:winformsapp2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BAE5B9-B131-4E2C-8778-C103DFF44AD8}|WinFormsApp2\\WinFormsApp2.vbproj|c:\\users\\popej\\source\\repos\\winformsapp2\\winformsapp2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{94BAE5B9-B131-4E2C-8778-C103DFF44AD8}|WinFormsApp2\\WinFormsApp2.vbproj|solutionrelative:winformsapp2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.vb",
+              "DocumentMoniker": "C:\\Users\\popej\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Form3.vb",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Form3.vb",
+              "ToolTip": "C:\\Users\\popej\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Form3.vb",
+              "RelativeToolTip": "WinFormsApp2\\Form3.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-03T10:18:00.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\popej\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Form3.vb",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Form3.vb",
+              "ToolTip": "C:\\Users\\popej\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Form3.vb [Design]",
+              "RelativeToolTip": "WinFormsApp2\\Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-03T09:58:49.601Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\popej\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Form1.vb",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Form1.vb",
+              "ToolTip": "C:\\Users\\popej\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Form1.vb",
+              "RelativeToolTip": "WinFormsApp2\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-24T12:16:48.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\popej\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Form1.vb",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Form1.vb",
+              "ToolTip": "C:\\Users\\popej\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Form1.vb [Design]",
+              "RelativeToolTip": "WinFormsApp2\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-24T12:12:26.056Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

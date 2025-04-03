@@ -1,0 +1,14 @@
+C:\Users\popej\source\repos\ConsoleAppASS3\ConsoleAppASS3\bin\Debug\net8.0\ConsoleAppASS3.exe
+C:\Users\popej\source\repos\ConsoleAppASS3\ConsoleAppASS3\bin\Debug\net8.0\ConsoleAppASS3.deps.json
+C:\Users\popej\source\repos\ConsoleAppASS3\ConsoleAppASS3\bin\Debug\net8.0\ConsoleAppASS3.runtimeconfig.json
+C:\Users\popej\source\repos\ConsoleAppASS3\ConsoleAppASS3\bin\Debug\net8.0\ConsoleAppASS3.dll
+C:\Users\popej\source\repos\ConsoleAppASS3\ConsoleAppASS3\bin\Debug\net8.0\ConsoleAppASS3.pdb
+C:\Users\popej\source\repos\ConsoleAppASS3\ConsoleAppASS3\obj\Debug\net8.0\ConsoleAppASS3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\popej\source\repos\ConsoleAppASS3\ConsoleAppASS3\obj\Debug\net8.0\ConsoleAppASS3.AssemblyInfoInputs.cache
+C:\Users\popej\source\repos\ConsoleAppASS3\ConsoleAppASS3\obj\Debug\net8.0\ConsoleAppASS3.AssemblyInfo.vb
+C:\Users\popej\source\repos\ConsoleAppASS3\ConsoleAppASS3\obj\Debug\net8.0\ConsoleAppASS3.vbproj.CoreCompileInputs.cache
+C:\Users\popej\source\repos\ConsoleAppASS3\ConsoleAppASS3\obj\Debug\net8.0\ConsoleAppASS3.dll
+C:\Users\popej\source\repos\ConsoleAppASS3\ConsoleAppASS3\obj\Debug\net8.0\refint\ConsoleAppASS3.dll
+C:\Users\popej\source\repos\ConsoleAppASS3\ConsoleAppASS3\obj\Debug\net8.0\ConsoleAppASS3.pdb
+C:\Users\popej\source\repos\ConsoleAppASS3\ConsoleAppASS3\obj\Debug\net8.0\ConsoleAppASS3.genruntimeconfig.cache
+C:\Users\popej\source\repos\ConsoleAppASS3\ConsoleAppASS3\obj\Debug\net8.0\ref\ConsoleAppASS3.dll

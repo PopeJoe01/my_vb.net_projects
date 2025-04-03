@@ -1,0 +1,6 @@
+﻿12:50:31:554	Build started at 12:50 pm...
+12:50:31:640	1>------ Build started: Project: WinFormsApp5, Configuration: Debug Any CPU ------
+12:50:33:271	1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+12:50:34:671	1>WinFormsApp5 -> C:\Users\popej\source\repos\WinFormsApp5\WinFormsApp5\bin\Debug\net8.0-windows\WinFormsApp5.dll
+12:50:34:695	========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+12:50:34:695	========== Build completed at 12:50 pm and took 03.282 seconds ==========
