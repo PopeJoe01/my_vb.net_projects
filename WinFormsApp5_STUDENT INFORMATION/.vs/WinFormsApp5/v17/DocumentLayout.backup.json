@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\popej\\source\\repos\\WinFormsApp5_STUDENT INFORMATION\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{242665F8-4C34-4B6C-9DBE-FC7A29A5D14B}|WinFormsApp5\\WinFormsApp5.vbproj|c:\\users\\popej\\source\\repos\\winformsapp5_student information\\winformsapp5\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{242665F8-4C34-4B6C-9DBE-FC7A29A5D14B}|WinFormsApp5\\WinFormsApp5.vbproj|solutionrelative:winformsapp5\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242665F8-4C34-4B6C-9DBE-FC7A29A5D14B}|WinFormsApp5\\WinFormsApp5.vbproj|c:\\users\\popej\\source\\repos\\winformsapp5_student information\\winformsapp5\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{242665F8-4C34-4B6C-9DBE-FC7A29A5D14B}|WinFormsApp5\\WinFormsApp5.vbproj|solutionrelative:winformsapp5\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242665F8-4C34-4B6C-9DBE-FC7A29A5D14B}|WinFormsApp5\\WinFormsApp5.vbproj|c:\\users\\popej\\source\\repos\\winformsapp5_student information\\winformsapp5\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{242665F8-4C34-4B6C-9DBE-FC7A29A5D14B}|WinFormsApp5\\WinFormsApp5.vbproj|solutionrelative:winformsapp5\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\popej\\source\\repos\\WinFormsApp5_STUDENT INFORMATION\\WinFormsApp5\\Form2.vb",
+              "RelativeDocumentMoniker": "WinFormsApp5\\Form2.vb",
+              "ToolTip": "C:\\Users\\popej\\source\\repos\\WinFormsApp5_STUDENT INFORMATION\\WinFormsApp5\\Form2.vb",
+              "RelativeToolTip": "WinFormsApp5\\Form2.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-24T12:29:27.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\popej\\source\\repos\\WinFormsApp5_STUDENT INFORMATION\\WinFormsApp5\\Form2.vb",
+              "RelativeDocumentMoniker": "WinFormsApp5\\Form2.vb",
+              "ToolTip": "C:\\Users\\popej\\source\\repos\\WinFormsApp5_STUDENT INFORMATION\\WinFormsApp5\\Form2.vb [Design]",
+              "RelativeToolTip": "WinFormsApp5\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-24T12:29:15.791Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\popej\\source\\repos\\WinFormsApp5_STUDENT INFORMATION\\WinFormsApp5\\Form1.vb",
+              "RelativeDocumentMoniker": "WinFormsApp5\\Form1.vb",
+              "ToolTip": "C:\\Users\\popej\\source\\repos\\WinFormsApp5_STUDENT INFORMATION\\WinFormsApp5\\Form1.vb [Design]",
+              "RelativeToolTip": "WinFormsApp5\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-24T12:29:03.745Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
